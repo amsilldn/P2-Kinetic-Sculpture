@@ -11,4 +11,4 @@ Components:
 * Screws, bolts, nuts
 * 20 gauge wire
 
-Housing, image plate, and gears were all laser cut.
+Housing, image plate, and gears were all laser cut. Device is powered using 4 9v batteries.
