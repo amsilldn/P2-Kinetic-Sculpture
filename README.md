@@ -3,6 +3,8 @@
 
 Device built and programmed by Amanda Sill and Joseph Palmer
 
+https://www.youtube.com/watch?v=6b3515Bfp1Y
+
 Components:
 * 2 Arduino Unos
 * 2 Stepper Motors & Drivers
